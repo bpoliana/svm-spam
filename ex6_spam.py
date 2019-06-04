@@ -7,15 +7,15 @@ from nltk import PorterStemmer
 
 def execute():
     print('==================== Parte 1: Processamento de Email ====================')
-    print('Preprocessando sample email ', filename, '...')
+    print('Preprocessando sample email (emailSample3.txt)...')
 
-    with open('emails_teste/emailSample1.txt') as f:
-        file_contents = f.read().rstrip(Tde'\n')
+    with open('emails_teste/emailSample3.txt') as f:
+        file_contents = f.read().rstrip('\n')
 
     word_indices = process_email(file_contents)
 
     print ('\n\n\n\n==================== Parte 2: Extracao de Feature ====================')
-    print ('Extracting features from sample email (emailSample1.txt)...')
+    print ('Extracting features from sample email (emailSample3.txt)...')
     features = email_features(word_indices)
 
     print ('Length of feature vector:', len(features))
@@ -26,7 +26,6 @@ def execute():
     mat_data = sio.loadmat('spamTrain.mat')
     x = mat_data['X']
     y = mat_data['y'].ravel()
-
 
     print ('Treinamento SVM Linear (Classificacao Spam)...')
     C = 0.1
@@ -55,7 +54,7 @@ def execute():
         print ("{0:} ({1:f})".format(vocab_list[idx[i]], coef[idx[i]]))
 
     print ('\n\n\n\n=================== Parte 6: Nossos emails =====================')
-    filename = 'emails_teste/emailSampleMedium.txt'
+    filename = 'emails_teste/emailSample3.txt'
     with open(filename) as f:
         file_contents = f.read().rstrip('\n')
 
