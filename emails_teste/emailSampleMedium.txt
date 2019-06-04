@@ -1,0 +1,72 @@
+Today’s highlights
+Introducing Skelebot
+A Better Way to Manage Machine Learning Projects
+Sean Shookman in Cars.Com TechnologyMember only content6 min read
+MachineHack, Predict A Doctor’s Consultation Hackathon
+A simple walk-through of a machine learning hackagon
+Benjamin Lau in Towards Data Science9 min read
+How to build a web app using Python’s Flask and Google App Engine
+A small tutorial project for learning Flask, APIs, and Google App Engine for beginners
+Tristan Ganry in freeCodeCamp.org9 min read
+Learn ML Algorithms by coding: Decision Trees
+Implementation of Decision Trees
+Rahul in Lethal Brains9 min read
+Based on your reading history
+Investigating the Machine Reading Comprehension Problem with Deep Learning
+Teaching machines how to do standardized test-like reading questions.
+Brandon Lin in Towards Data ScienceMember only content10 min read
+Fuzzy logic and how it is curing cancer
+A brief intro on soft computing, fuzzy logic and how these two help us heal tumors!
+Salma Ghoneim in Towards Data ScienceMember only content6 min read
+Query Segmentation and Spelling Correction
+In English Language, people generally type the queries which are separated by space, but sometimes and…
+Sonu Sharma in Towards Data ScienceMember only content8 min read
+From authors you follow
+The Rookie and the Pro: Different Ways to Succeed on Medium
+A Q & A with Shannon Ashley and Shaunta Grimes, two top Partner Program writers
+Medium Staff in 3 min read12 min read
+Best in Basic Income
+Why Legendary Economists Liked Universal Basic Income
+The idea wasn’t invented by today’s big-government left. It has intrigued thinkers from John Stuart Mill to…
+Bloomberg ViewMember only content5 min read
+Best in Productivity
+The Efficiency Delusion
+Optimizing how we live, work, and play is embedded deep in the psyche of coders and American culture. But how…
+Evan Selinger in OneZeroMember only content8 min read
+How to Make Your Subconscious Mind Work for You
+So creative, it seems like magic: a step-by-step guide to unleashing your most innovative brainpower
+Kate Maria Pennell in Better HumansMember only content9 min read
+Is It a Bad Idea to Multitask at the Gym?
+I like to read books on the stationary bike. Here’s what experts have to say about that.
+Sarah Begley in ElementalMember only content5 min read
+Best in Sexuality
+Sexual Health Apps Can’t Replace Real Sex Talk
+What a new service that purports to confirm users are taking HIV prevention medication gets wrong about…
+Lux Alptraum in OneZeroMember only content5 min read
+Sex and the Singularity
+We talk about sex the way we talk about the future. That’s a problem.
+Lux Alptraum in OneZeroMember only content5 min read
+A New Dating App Thinks Video Chats Will Help Prevent Assault
+There’s just one big problem
+Lux Alptraum in OneZeroMember only content5 min read
+Best in Photography
+Snapchat Has Created the Next Evolution in Photography
+The company’s Landmarkers feature seamlessly melds the real and the imagined
+Owen Williams in OneZeroMember only content6 min read
+Getting Lost In Canada
+A photo essay on escaping the toxic politics of the U.S.
+John Francis PetersMember only content3 min read
+Your Phone’s Camera Isn’t as Good as You Think
+Software — not a better lens — is where the real innovation is happening
+Jordan McMahon in OneZeroMember only content4 min read
+Editors’ picks
+Why Is the Internet Obsessed With This Cult Toothpaste?
+American customers are paying big bucks to import tiny tubes of toothpaste
+Ashwin Rodrigues in ElementalMember only content8 min read
+The Scientific Truth About Toxins
+Your body doesn’t need as much help removing them as you might think
+Kate Morgan in ElementalMember only content5 min read
+How Satan Was Disappeared From Twitter
+The deamplification of a popular parody account shows the platform’s inconsistent — and often unexplained —…
+Will Oremus in OneZeroMember only content11 min read
+Make this email better.

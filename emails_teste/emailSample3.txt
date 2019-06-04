@@ -1,0 +1,42 @@
+This week, we’ve added two new lessons to our Learn PHP course focusing on functions, a key topic in any programming language. Functions allow you to group code together and call the group instead of writing out the same code every time. By writing functions, you save time and design cleaner code. 
+
+Want to learn more about functions? Here to explain why PHP is a good language to start learning them in is Seko, a professional PHP developer.
+ 
+ 
+ 
+ 	
+Seko
+Seko, Software Engineer
+ 
+Tell me a little about yourself!
+ 
+My name is Serkan, friends call me Seko. I am originally from Turkey. After attending Penn State University, I worked at AOL for 9 years where I was mainly doing front end web development for Moviefone. Originally, we worked in Java but over the years we migrated over to PHP.
+ 
+ 
+How did you learn PHP?
+ 
+I learned PHP on my own by taking online courses and tutorials. After learning the basics, I built my own online gaming website to get more familiar with it. I wanted to get better at PHP because it was very popular and easy to learn.
+ 
+ 
+Top tip when learning a new language?
+ 
+Don't give up if you don't know how to solve a problem. PHP has a great documentation and has a very large online community where you can get an answer for any question you have.
+ 
+ 
+Any advice for a first time coder who's native language is not English?
+ 
+I think fundamentally understanding the code is more important than understanding the description of the code. Even if your English is intermediate, you can be an excellent software engineer. Don’t let it deter you.
+ 
+ 
+ 
+ 	
+Now that you've heard from the Seko, it’s your turn to learn. Our new lessons come with two meaty projects to get you comfortable with using functions in PHP. Try our new PHP lessons today!
+ 
+Start Now
+ 
+Bonus Video: How to Debug Your Code
+It's one of the most frustrating things with programming, and also one of the most common – bugs and figuring out how to fix them. If you're coding, it's not just something you'll need to learn to love, but learn to get good at. In this video, we’ll go through six tips and strategies so you can start debugging like a pro. Follow Along P.S. Be the first to see new videos as soon as they're released: subscribe to our YouTube channel.
+ 
+Happy coding, 
+Codecademy
+ 
